@@ -107,6 +107,6 @@ O notebook `2026_Imersão_dados_com_Python_Alura.ipynb` contém todo o processo 
 
 Desenvolvido durante a **Imersão Python da Alura**
 
-- **GitHub**: [@seu-usuario](https://github.com/matheusribe)
-- **LinkedIn**: [Seu Nome](https://linkedin.com/in/matheusribe)
+- **GitHub**: [matheusribe](https://github.com/matheusribe)
+- **LinkedIn**: [matheusribe](https://linkedin.com/in/matheusribe)
 
