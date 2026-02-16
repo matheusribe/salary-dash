@@ -83,6 +83,13 @@ Desenvolvido durante a Imersão Python da Alura
 - GitHub: [@matheusribe](https://github.com/matheusribe)
 - LinkedIn: [matheusribe](https://linkedin.com/in/matheusribe)
 
+<<<<<<< HEAD
 ## 📝 Licença
+=======
+Desenvolvido durante a **Imersão Python da Alura**
+
+- **GitHub**: [matheusribe](https://github.com/matheusribe)
+- **LinkedIn**: [matheusribe](https://linkedin.com/in/matheusribe)
+>>>>>>> 018d098905e300b179ecc707fcc44fc6ff2d41c6
 
 MIT License
